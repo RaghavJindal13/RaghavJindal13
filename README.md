@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 <!-- section - social media icons -->
 
 [![linkedin RaghavJindal13][1.1]][1]
-[![github ombharatiya][2.1]][2]
-[![twitter ombharatiya][3.1]][3]
+[![github Raghav][2.1]][2]
+[![twitter Raghav][3.1]][3]
 
 
 
@@ -87,12 +87,10 @@ Thanks for reading about me. You can connect with me on ..
 
 <!-- section - social media icons -->
 
-[![linkedin ombharatiya][1.1]][1]
-[![github ombharatiya][2.1]][2]
-[![twitter ombharatiya][3.1]][3]
-[![medium ombharatiya][4.1]][4]
-[![stackoverflow om-bharatiya][5.1]][5]
-[![dev to ombharatiya][6.1]][6]
+[![linkedin Raghav][1.1]][1]
+[![github Raghav][2.1]][2]
+[![twitter Raghav][3.1]][3]
+
 
 <!-- section - social media icons -->
 
