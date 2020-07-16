@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [2.1]: https://github.com/RaghavJindal13/RaghavJindal13/blob/master/assets/icons/icons8-github-48.png (Raghav Jindal Github)
 [3.1]: https://github.com/RaghavJindal13/RaghavJindal13/blob/master/assets/icons/icons8-twitter-48.png (Raghav Jindal Twitter)
 [4.1]: https://github.com/RaghavJindal13/RaghavJindal13/blob/master/assets/icons/icons8-portfolio-60.png (Raghav Jindal Portfolio)
+[5.1]: https://github.com/RaghavJindal13/RaghavJindal13/blob/master/assets/icons/cv%20(1).png (Raghav Jindal Resume)
 
 
 <!-- links to my social media accounts -->
@@ -31,6 +32,7 @@ Here are some ideas to get you started:
 [2]: https://github.com/RaghavJindal13
 [3]: https://twitter.com/RaghavJ69274431
 [4]: https://jindal-raghav-1.jimdosite.com/
+[5]: https://github.com/RaghavJindal13/RaghavJindal13/blob/master/Raghav's%20Resume.pdf
 
 
 
@@ -43,6 +45,7 @@ Here are some ideas to get you started:
 [![github Raghav][2.1]][2]
 [![twitter Raghav][3.1]][3]
 [![Portfolio Raghav][4.1]][4]
+[![Resume Raghav][5.1]][5]
 
 
 
@@ -95,6 +98,7 @@ Thanks for reading about me. You can connect with me on ..
 [![github Raghav][2.1]][2]
 [![twitter Raghav][3.1]][3]
 [![Portfolio Raghav][4.1]][4]
+[![Resume Raghav][5.1]][5]
 
 
 
