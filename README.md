@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 <!-- links to my social media accounts -->
-[1]: raghav
+[1]: https://www.linkedin.com/in/raghav-jindal-27b641167/
 
 
 
