@@ -1,8 +1,7 @@
 ### Hi, I'm Raghav Jindal! 
 
   <img align="right" src="https://github.com/RaghavJindal13/RaghavJindal13/blob/master/assets/icons/boy.png" width="230" data-canonical-src="" style="max-width:100%;">
-
-I am a second-year student at UPES, Dehradun, pursuing my Bachelors in Computer Science with specialization in Cloud Computing. I am passionate towards work. My area of interest is Full Stack Web Development,AWS,Docker,and Data Science. My specialities include quickly learning new programming languages, new skills, hardworking, time punctual.
+I am a second-year student at UPES, Dehradun, pursuing my bachelor in Computer Science with a specialization in Cloud Computing. I am passionate about work. My area of interest is Full Stack Web Development, AWS, Docker, and Data Science. My specialties include quickly learning new programming languages, new skills, hardworking, time punctual.
 
 I have done internship as a Web Developer at @4yuva and currently doing internship as a Data Scientist @Pragyan.
 
