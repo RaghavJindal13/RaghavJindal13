@@ -2,10 +2,9 @@
 
   <img align="right" src="https://github.com/RaghavJindal13/RaghavJindal13/blob/master/assets/icons/boy.png" width="230" data-canonical-src="" style="max-width:100%;">
 
-I am a 2nd year student at UPES, Dehradun, pursuing my Bachelors in Computer Science with specialization in Cloud Computing. I am passionate towards work. My area of interest is Full Stack Web Development,AWS,Docker,and Data Science. My specialities include quickly learning new programming languages, new skills, hardworking, time punctual.
+I am a second-year student at UPES, Dehradun, pursuing my Bachelors in Computer Science with specialization in Cloud Computing. I am passionate towards work. My area of interest is Full Stack Web Development,AWS,Docker,and Data Science. My specialities include quickly learning new programming languages, new skills, hardworking, time punctual.
 
 I have done internship as a Web Developer at @4yuva and currently doing internship as a Data Scientist @Pragyan.
-
 
 <!--
 **RaghavJindal13/RaghavJindal13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,6 +34,10 @@ Here are some ideas to get you started:
 
 <!-- links to my social media accounts -->
 [1]: https://www.linkedin.com/in/raghav-jindal-27b641167/
+[2]: https://github.com/RaghavJindal13
+[3]: https://twitter.com/RaghavJ69274431
+[4]: 
+[5]: https://github.com/RaghavJindal13/RaghavJindal13/blob/master/Raghav's%20Resume.pdf
 
 
 
