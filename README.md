@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 <!-- links to my social media accounts -->
-
+[1]: raghav
 
 
 
@@ -43,11 +43,6 @@ Here are some ideas to get you started:
 
 <!-- section - social media icons -->
 
-[![linkedin RaghavJindal13][1.1]][1]
-[![github Raghav][2.1]][2]
-[![twitter Raghav][3.1]][3]
-[![Portfolio Raghav][4.1]][4]
-[![Resume Raghav][5.1]][5]
 
 
 
