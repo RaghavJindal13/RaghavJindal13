@@ -52,9 +52,9 @@ Here are some ideas to get you started:
 
 ## I work on .. 💻
 
-React.js  . MERN . AWS Services .Machine Learning
+React.js  . MERN . 
 
-Postgresql . MongoDB 
+AWS Services .Machine Learning. Docker
 
 Python . JavaScript . C++ 
 
