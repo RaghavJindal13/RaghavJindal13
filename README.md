@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 ## I work on .. 💻
 
-React.js  . MERN . 
+Full Stack web devleopment . MERN Stack .
 
-AWS Services .Machine Learning. Docker
+AWS Services . Docker . DevOps . Terraform .
 
-Python . JavaScript . C++ 
+C++ . Javascript .
 
 <!-- section - skills -->
 
