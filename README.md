@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 [2]: https://github.com/RaghavJindal13
 [3]: https://medium.com/@raghavjindal131
 [4]: https://twitter.com/RaghavJ69274431
-[5]: https://github.com/RaghavJindal13
-[6]: https://github.com/RaghavJindal13/RaghavJindal13/blob/master/Raghav's%20Resume.pdf
+[5]: http://bit.ly/raghav13
+[6]: https://github.com/RaghavJindal13/RaghavJindal13/blob/master/Raghav%20Jindal.pdf
 
 
 
