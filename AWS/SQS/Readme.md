@@ -2,6 +2,8 @@
 ![image](https://user-images.githubusercontent.com/53964007/122661239-b2880600-d1a5-11eb-96e8-989bfaca0f12.png)
 ![image](https://user-images.githubusercontent.com/53964007/122661257-ef53fd00-d1a5-11eb-9c28-8c566b179335.png)
 ![image](https://user-images.githubusercontent.com/53964007/122661268-ff6bdc80-d1a5-11eb-8157-ad7460f92c77.png)
+![image](https://user-images.githubusercontent.com/53964007/122702266-a0bd6600-d26c-11eb-8dd2-fb8da4256364.png)
+
 
 simple queue service provides a fully managed queue for storing messages as they travel between different applications or microservices. \
 You can use Amazon SQS to transmit any volume of data, at any level of throughput, without
