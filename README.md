@@ -2,26 +2,9 @@
 
   <img align="right" src="https://github.com/RaghavJindal13/RaghavJindal13/blob/master/assets/icons/boy.png" width="230" data-canonical-src="" style="max-width:100%;">
 
-A pre-final year open-source Enthusiast at UPES, Dehradun, pursuing my bachelor's in Computer Science with a specialization in Cloud Computing. I am passionate about work. My area of interest is Full Stack Web Development, AWS, Docker, and Data Science. My specialties include quickly learning new programming languages, new skills, hardworking, time punctual.
+A final year open-source Enthusiast at UPES, Dehradun, pursuing my bachelor's in Computer Science with a specialization in Cloud Computing. I am passionate about work. My area of interest is Full Stack Web Development(MERN), AWS, Docker, and DevOps. My specialties include quickly learning new programming languages, new skills, hardworking, time punctual.
 
-I have done an internship as a Web Developer at @9eye and a data science intern at Iha Pragyan and currently occupied as an adaptable and responsible undergraduate, seeking a summer internship opportunity. 
-
-<!--
-**RaghavJindal13/RaghavJindal13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ..
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+I have done an internships at Halliburton,Celebal and 9eye as a full stack developer and currently occupied as an adaptable and responsible undergraduate, seeking a full-time opportunity. 
 
 <!-- icons  -->
 
@@ -38,7 +21,7 @@ Here are some ideas to get you started:
 [2]: https://github.com/RaghavJindal13
 [3]: https://medium.com/@raghavjindal131
 [4]: https://twitter.com/RaghavJ69274431
-[5]: http://bit.ly/raghav13
+[5]: http://bit.ly/raghavjindal
 [6]: https://github.com/RaghavJindal13/RaghavJindal13/blob/master/Raghav%20Jindal.pdf
 
 
