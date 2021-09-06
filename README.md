@@ -4,7 +4,7 @@
 
 A final year open-source Enthusiast at UPES, Dehradun, pursuing my bachelor's in Computer Science with a specialization in Cloud Computing. I am passionate about work. My area of interest is Full Stack Web Development(MERN), AWS, Docker, and DevOps. My specialties include quickly learning new programming languages, new skills, hardworking, time punctual.
 
-I have done an internships at Halliburton,Celebal and 9eye as a full stack developer and currently occupied as an adaptable and responsible undergraduate, seeking a full-time opportunity. 
+I have done internships at Halliburton,Celebal and 9eye as a full stack developer and currently occupied as an adaptable and responsible undergraduate, seeking a full-time opportunity. 
 
 <!-- icons  -->
 
